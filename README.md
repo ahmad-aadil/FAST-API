@@ -1,4 +1,4 @@
-# FastAPI Patient Management CRUD Application
+# Patient Management CRUD Application
 
 This is a **CRUD application** built with **FastAPI** for managing patient records.  
 It also includes **sorting** and **ordering** functionality based on patient metrics like **height, weight, and BMI**.
