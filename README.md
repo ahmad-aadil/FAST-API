@@ -2,7 +2,6 @@
 
 This is a **CRUD application** built with **FastAPI** for managing patient records.  
 It also includes **sorting** and **ordering** functionality based on patient metrics like **height, weight, and BMI**.
-
 The app demonstrates **FastAPI endpoints**, **Pydantic validation**, and **JSON file storage** for persistence.
 
 ##  Features
@@ -36,4 +35,3 @@ The app demonstrates **FastAPI endpoints**, **Pydantic validation**, and **JSON 
 - **Server:** Uvicorn  
 - **Language:** Python 3.10+  
 
----
